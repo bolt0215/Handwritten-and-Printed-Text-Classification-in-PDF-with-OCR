@@ -1,0 +1,1 @@
+# Handwritten-and-Printed-Text-Classification-in-PDF-with-OCR
